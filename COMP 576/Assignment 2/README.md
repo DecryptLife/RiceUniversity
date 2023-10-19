@@ -13,3 +13,7 @@ nout = [(n_in + 2p - k)/s] + 1
     k: convolution kernel size
     p: convolution padding size
     s: convolution stride size
+
+Question 2:
+
+Filters or feature detectors are applied to input image to detect features of the image like (edges, horizonatal and vertical lines, bends, etc) Once the filters are applied to the input image we get feature maps/ activation maps at each layer of the network.
